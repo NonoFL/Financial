@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/1doc/AndroidStudioProjects/Financial/app/src/main/res/drawable-v24/btn_style_one.xml" value="0.141" />
+        <entry key="..\:/1doc/AndroidStudioProjects/Financial/app/src/main/res/drawable-v24/btn_style_three.xml" value="0.141" />
+        <entry key="..\:/1doc/AndroidStudioProjects/Financial/app/src/main/res/drawable-v24/btn_style_two.xml" value="0.141" />
+        <entry key="..\:/1doc/AndroidStudioProjects/Financial/app/src/main/res/layout/activity_data_analyse.xml" value="0.1453125" />
+        <entry key="..\:/1doc/AndroidStudioProjects/Financial/app/src/main/res/layout/activity_in_come_detail.xml" value="0.1" />
+        <entry key="..\:/1doc/AndroidStudioProjects/Financial/app/src/main/res/layout/activity_in_manage.xml" value="0.2859375" />
+        <entry key="..\:/1doc/AndroidStudioProjects/Financial/app/src/main/res/layout/activity_login.xml" value="0.2703125" />
+        <entry key="..\:/1doc/AndroidStudioProjects/Financial/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/1doc/AndroidStudioProjects/Financial/app/src/main/res/layout/activity_new_in_come.xml" value="0.2859375" />
+        <entry key="..\:/1doc/AndroidStudioProjects/Financial/app/src/main/res/layout/activity_new_pay.xml" value="0.2703125" />
+        <entry key="..\:/1doc/AndroidStudioProjects/Financial/app/src/main/res/layout/activity_out_manage.xml" value="0.2859375" />
+        <entry key="..\:/1doc/AndroidStudioProjects/Financial/app/src/main/res/layout/activity_pay_detail.xml" value="0.13645833333333332" />
+        <entry key="..\:/1doc/AndroidStudioProjects/Financial/app/src/main/res/layout/activity_register.xml" value="0.2798165137614679" />
+        <entry key="..\:/1doc/AndroidStudioProjects/Financial/app/src/main/res/layout/activity_sys_setting.xml" value="0.2859375" />
+        <entry key="..\:/1doc/AndroidStudioProjects/Financial/app/src/main/res/layout/activity_welcome.xml" value="0.2859375" />
+        <entry key="..\:/1doc/AndroidStudioProjects/Financial/app/src/main/res/layout/recy_item_in.xml" value="0.3333333333333333" />
+        <entry key="..\:/1doc/AndroidStudioProjects/Financial/app/src/main/res/layout/recy_item_out.xml" value="0.22" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
